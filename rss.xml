@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Munnova]]></title>
         <description><![CDATA[Munnova]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/munnova/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:55:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 07:04:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/munnova/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2f69bb-6666-4335-9e9d-08828d4f119d.png">]]></description>
-            <link>undefinedbc8539ae-55c0-4809-8354-7b0f41da7264/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f0c0c04-f159-4287-8c16-a7457ba5112c.png">]]></description>
+            <link>https://thegrid.ai/munnova/bc8539ae-55c0-4809-8354-7b0f41da7264/index.html</link>
             <guid isPermaLink="false">bc8539ae-55c0-4809-8354-7b0f41da7264</guid>
-            <pubDate>Sun, 21 Feb 2016 22:48:12 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 07:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
